@@ -10,9 +10,10 @@ module.exports = {
   },
   themeConfig: {
     nav:[ // 导航栏配置
-      {text: '猪猪', link: '/zhuzhu.md' },
-      {text: '宝宝', link: '/algorithm/'},
-      {text: '微博', link: 'https://baidu.com'}      
+      {text: '猪猪', link: '/zhuzhu/zhuzhu.md' },
+      {text: '宝宝', link: '/baobao/baobao.md'},
+      {text: '微博', link: 'https://baidu.com'},
+	  {text: 'GitHub', link: 'https://github.com/PeterAlfredLee'}
     ],
     sidebar: 'auto', // 侧边栏配置
     sidebarDepth: 3, // 侧边栏显示2级
