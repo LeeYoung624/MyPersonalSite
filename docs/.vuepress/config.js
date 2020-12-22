@@ -11,7 +11,7 @@ module.exports = {
   themeConfig: {
     nav: [ // 导航栏配置
       { text: '宝宝生日快乐', link: '/birthday/birthday.md' },
-      // { text: '宝宝', link: '/baobao/baobao.md' },
+      { text: '宝宝&猪猪の大事记', link: '/history/history.md' },
       // { text: '微博', link: 'https://baidu.com' },
       // { text: 'GitHub', link: 'https://github.com/PeterAlfredLee' }
     ],
