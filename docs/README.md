@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /happy_birthday_piggy.jpeg
+heroImage: /dance.gif
 heroText: 今日特别主题-宝宝生日快乐
 tagline: null
 actionText: 点这里试试 →
