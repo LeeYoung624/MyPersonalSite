@@ -5,4 +5,4 @@ const Koa = require('koa');
 const app = new Koa();
 app.use(serve(path.resolve('docs/.vuepress/dist')))
  
-app.listen(100);
+app.listen(80);
