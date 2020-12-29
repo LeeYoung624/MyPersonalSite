@@ -3,7 +3,7 @@ home: true
 heroImage: /dance.gif
 heroText: 今日特别主题-宝宝生日快乐
 tagline: null
-actionText: 点这里试试 →
+actionText: 点这里试试  →
 actionLink: /birthday/birthday.html
 # features:
 # - title: 简洁至上
@@ -13,4 +13,5 @@ actionLink: /birthday/birthday.html
 # - title: 高性能
 #   details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
 footer: 猪猪特别呈现 | Copyright © 猪猪
+pageClass: custom-homepage
 ---
