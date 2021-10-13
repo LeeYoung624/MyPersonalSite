@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/PeterAlfredLee/blog/issues"
   },
-  "homepage": "https://github.com/PeterAlfredLee/blog#readme"
+  "homepage": "https://github.com/PeterAlfredLee/blog#readme",
+  "devDependencies": {
+    "vuepress-theme-reco": "^1.6.1"
+  }
 }

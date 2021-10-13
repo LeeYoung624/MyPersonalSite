@@ -305,15 +305,95 @@ hard模式的2020年，马上要开始了，就从春节开始！
 ![yunfuzhao_4](./pics/yunfuzhao_4.jpg)
 
 
-## 暂时的结尾
 
-到这里，就是目前为止宝宝和猪猪的所有大事记啦。我这里只有一部分照片，宝宝以后如果想要加上自己的照片的话，就告诉猪猪吧～
+## 2021-01-18  小猪猪出生啦！
+
+千呼万唤下，小猪猪终于出生啦！
+
+我们家小猪猪，肯定很心疼麻麻，出来的这么快，都没有别人开三指的痛苦，一下开到八指，一个小时就出生了，小猪猪真厉害！
+
+现在看当时的小猪猪，脸又皱又黑，眼睛突，真像小老头，哈哈哈
+
+![chusheng_1](./pics/xiaozhuzhu/chusheng_1.jpg)
+
+![chusheng_2](./pics/xiaozhuzhu/chusheng_2.jpg)
+
+![chusheng_3](./pics/xiaozhuzhu/chusheng_3.jpg)
+
+![chusheng_4](./pics/xiaozhuzhu/chusheng_4.jpg)
+
+![chusheng_5](./pics/xiaozhuzhu/chusheng_5.jpg)
+
+![manyue_1](./pics/xiaozhuzhu/manyue_1.jpg)
+
+![manyue_2](./pics/xiaozhuzhu/manyue_2.jpg)
+
+不过，后面小猪猪就张胖了，也白了，变成了一直白胖猪
+
+![pangpangzhu_1](./pics/xiaozhuzhu/pangpangzhu_1.jpg)
+
+![pangpangzhu_2](./pics/xiaozhuzhu/pangpangzhu_2.jpg)
+
+## 2021-04-28  小猪猪100天 & 回老家
+
+五一到了，小猪猪100天大了，100天的小猪，越发像一只胖猪猪了。
+
+![bairi_1](./pics/xiaozhuzhu/bairi_1.jpg)
+
+![bairi_2](./pics/xiaozhuzhu/bairi_2.jpg)
+
+![bairi_3](./pics/xiaozhuzhu/bairi_3.jpg)
+
+而且，麻麻和小猪猪就要回老家了，要去一个月！这是我和宝宝认识以后，分开最长的时间，太难受了！以后我再也不要和宝宝分开这么久了！
+
+![laojia_1](./pics/xiaozhuzhu/laojia_1.jpg)
+
+![laojia_2](./pics/xiaozhuzhu/laojia_2.jpg)
+
+![laojia_3](./pics/xiaozhuzhu/laojia_3.jpg)
+
+![laojia_4](./pics/xiaozhuzhu/laojia_4.jpg)
 
 
-现在，宝宝马上要过30岁生日啦；马上，我们家也要新增一位新成员啦。
+
+## 2021-09-05  大鹏两日游
+
+这应该是有小猪猪以后，我们第一次一起在外面过夜。可惜，我手机里只有一点这几天的照片，我们去了校场尾、看了海滩，还去了佳兆业国际乐园，被晒惨了！
+
+![xuexi_1](./pics/xiaozhuzhu/xuexi_1.jpg)
+
+![xuexi_2](./pics/xiaozhuzhu/xuexi_2.jpg)
+
+![leyuan_1](./pics/xiaozhuzhu/leyuan_1.jpg)
+
+![leyuan_2](./pics/xiaozhuzhu/leyuan_2.jpg)
 
 
-今后，我们一定还有更多的照片，会去各种好玩的地方玩，会吃各种好吃的肉肉，会听各种美妙的音乐，体验生活的百味。让我们以后再来更新这个博客吧！
+
+## 2021-10-01  十一广州游
+
+十一，我们在深圳给杨翼航过了生日，然后去广州玩了三天，这是我们有小猪猪以后，去的最远的一次旅游
+
+我们去了北京路、沙面、夜游珠江，还去了长隆动物园、儿童公园！
+
+![shiyi_1](./pics/xiaozhuzhu/shiyi_1.jpg)
+
+![shiyi_2](./pics/xiaozhuzhu/shiyi_2.jpg)
+
+![shiyi_3](./pics/xiaozhuzhu/shiyi_3.jpg)
+
+![shiyi_4](./pics/xiaozhuzhu/shiyi_4.jpg)
+
+![shiyi_5](./pics/xiaozhuzhu/shiyi_5.jpg)
+
+
+
+## 2021-10-14  结婚两周年
+
+一转眼，就和宝宝认识三周年、结婚两周年啦！
+
+这三年来，从认识宝宝、确定关系、领证、生小猪，感觉时间过的好快；但是仔细一想，感觉又经历了好多，感觉回忆满满。也许，这就是中年人的生活吧！
+
+今后，还要和宝宝生活一辈子，希望宝宝能多容忍我这只又懒，又爱吃肉肉，又爱拉屎放屁，睡起觉来还像是只死猪的猪猪。在我心里，小猪猪只能排第二名，宝宝永远排第一名！（别告诉小猪猪）
 
 ![xiaoxinxin](./pics/xiaoxinxin.gif)
-

@@ -13,8 +13,7 @@ module.exports = {
     nav: [ // 导航栏配置
       { text: '宝宝生日快乐', link: '/birthday/birthday.md' },
       { text: '宝宝&猪猪の大事记', link: '/history/history.md' },
-      // { text: '微博', link: 'https://baidu.com' },
-      // { text: 'GitHub', link: 'https://github.com/PeterAlfredLee' }
+      { text: '2021-10-14: 结婚两周年', link: '/history/anniversary.md' }
     ],
     sidebar: 'auto', // 侧边栏配置
     sidebarDepth: 3, // 侧边栏显示2级
